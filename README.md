@@ -1,11 +1,11 @@
 # flask-tutorial
-Flask tutorial to create a blo
+Flask tutorial to create a blog
 
 ## Synopsis
 
-Name: Flask blog tutorial
+Name: Flask blog
 
-This is a Flask "light-weight" python web application.
+This is a Flask "light-weight" python web application which guides the user through creating a blog.
 
 The Flask tutorial can be accessed here <https://flask.palletsprojects.com/en/1.1.x/tutorial/>
 
@@ -15,7 +15,7 @@ This website allows the user to register, then login and create, edit or delete 
 
 Below are screen shots of the blog:
 
-<kbd><img width="420" height="250" src="readme_assets/robot_detail.gif">|</kbd><kbd><img width="420" height="250" src="readme_assets/robot_result.gif"></kbd> 
+<kbd><img width="420" height="250" src="readme_assets/flask_tutorial_blog.png">|</kbd><kbd><img width="420" height="250" src="readme_assets/flask_tutorial_blog_register.png"></kbd><kbd><img width="420" height="250" src="readme_assets/flask_tutorial_blog_login.png">|</kbd><kbd><img width="420" height="250" src="readme_assets/flask_tutorial_blog_newpost.png">|</kbd> 
 
 ## Motivation
 
